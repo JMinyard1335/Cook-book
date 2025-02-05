@@ -1,0 +1,220 @@
+#+TITLE: Cookbook
+#+AUTHOR: Jachin Minyard
+:PROPERTIES:
+#+LATEX_CLASS: article
+#+STARTUP: overview
+#+OPTIONS: toc:nil
+#+OPTIONS: todo:nil
+#+OPTIONS: H:6
+#+OPTIONS: num:2
+#+LATEX_HEADER: \usepackage[margin=.75in]{geometry}
+#+LATEX_HEADER_EXTRA: \usepackage{tikz}
+#+LATEX_HEADER_EXTRA: \usepackage{graphicx}
+:END:
+
+Each recipe by default makes what I would call 1 serving with one serving being enough for a family of 4 most of the time.
+* TODO Breads
+** TODO Monkey Bread
+** TODO Pumpkin Bread
+** TODO Banana Bread
+* TODO Ethiopian 
+** DONE Misir Wot
+*** Ingredients
+- 4 tbsp Spoons of Niter Kibbeh
+- 1 Large Yellow Onion, Diced 
+- 3 cloves of garlic, Minced 
+- 1 Roma Tomato, Finely Chopped
+- 3 tbsp of Tomato Paste
+- 2 tbsp Spoons of Berbere
+- 1 Cup of Red Lentils
+- 2 1/2 Cups of Broth (chicken or vegetable)
+- 1 tsp of salt
+*** Instructions
+1. Melt 3 tbsp of Niter Kibbeh in a large pot over medium heat.
+2. Add onions and cook for around 8-10 mins or until golden brown
+3. Add garlic, tomatoes, tomato paste, and 1 tbsp of Berbere. Cook for 5-8 mins or until the tomatoes have cooked down a bit.
+4. Add Lentils and broth. Bring to a boil and then reduce to a simmer. Cook for 30-40 mins or until the lentils are soft. (stir occasionally)
+5. Stir in the rest of the niter kibbeh and berbere. Add salt to taste.
+** DONE Shiro Powder
+*** Ingredients
+- 3/4 Cup of Chickpea Flour
+- 1 tbsp berbere
+- 1 tsp ground cardamom
+- 1 tsp cumin powder
+- 1 tsp garlic powder
+- 1tsp salt
+*** Instructions
+1. on skillet dry roast the ingredients
+   
+* DONE Shiro Wot
+** Ingredients
+-  1 cup Shiro Powder
+- 3 tbsp of Niter Kibbeh
+- 1 large onion, diced 
+- 1 tsp of garlic, minced
+- 2 roma tomatoes, finely chopped
+** Instructions
+1. Add the Niter Kibbeh to a pot and melt over medium heat.
+2. Add the onions and cook for 8-10 mins till caramelized. 
+3. Add the tomatoes and garlic. Cook till reduced stirring occasionally. 
+4. Add the Shiro Powder and stir till there are no more dry lumps.
+5. Add 2 cups of water and bring to a boil. Reduce to a simmer and cook for 20-30 mins.
+   
+** TODO Tikil Gomen
+*** Ingredients
+- 
+- 
+- 
+- 
+*** Instructions
+1. 
+2. 
+3. 
+4. 
+** DONE Ye'abasha Gomen
+*** Ingredients
+- 10 ounces of collard greens, chopped
+- 3 tbsp of Niter Kibbeh
+- 1 1/2 tsp of ginger, minced
+- 2 tsp of garlic, minced
+- 1 large white onion diced
+- 1 tsp of smoked paprika
+- 1/2 tsp of cardamon 
+- 1 tsp of coriander/cumin
+- 1-2 fresh chili peppers, minced
+- 2 tbsp of lemon juice
+*** Instructions
+1. Add Niter Kibbeh, garlic, ginger, peppers, and other dried spices to a large skillet and saute for 30 sec. Don't burn them! 
+2. Add the onions and mix well. Saute for another 5 min.
+3. Toss in the collared greens and lemon juice. Turn down heat and cook till collared greens are wilted. 
+
+** DONE Fasollia
+*** Ingredients
+- 1lb of green beans, chopped (remove the ends) 
+- 1lb of carrots, julienned (cut longways into strips) 
+- 1 medium onion, diced
+- 1 tbsp of garlic, minced
+- 1 tsp of ginger, grated
+- 2 tbsp of Niter Kibbeh
+- salt as needed
+- 1/4 cup of water (more as needed).
+*** Instructions
+1. Add the green beans to a pan and cook till they start to brown and reduce. add a little salt, The idea is to dry them out as much as possible.
+2. Take the green beans out and set aside.
+3. Add the niter kibbeh to the pan and add onions. Cook for about 5 mins.
+4. Add the garlic and ginger. Cook for another 2 mins
+5. Add the carrots and water and simmer for about 10 mins. Stir occasionally, add more water as needed.
+6. Add the green beans back and simmer over medium heat for another 10 mins.
+    
+** DONE Niter Kibbeh
+*** Ingredients
+- 1 lb unsalted butter
+- 1/4 yellow onion, minced
+- 3 tbsp of garlic, minced
+- 2 tbsp of ginger, minced
+- 1 2in cinnamon stick
+- 1 tsp black peppercorn, whole
+- 3 black cardamom pods, whole
+- 1 tsp fenugreek seeds
+- 1 tsp coriander seeds
+- 1 tsp dried oregano
+- 1/2 tsp cumin seeds
+- 1/4 tsp ground nutmeg
+- 1/4 tsp ground turmeric
+- 1 tbsp of Beso Bila (Ethiopian basil)
+- 1 tbsp of Kosseret (Ethiopian herb)
+*** Instructions
+1. place dry herbs on a skillet and roast till fragment. Careful not to scorch the spices. 
+2. Place all ingredients in a saucepan bring to a low simmer and cook for 60-90 mins. Careful not to burn the butter or it will become bitter. 
+3. Pour through cheese cloth to strain out all the herbs and spices. Place in an airtight jar and store it.
+* TODO Indian
+** TODO Yellow Dal
+*** Ingredients
+*** Instructions
+** TODO Masala paste
+*** Ingredients
+- 1 cup coconut, grated
+- 8 cashews
+- 1 in or ginger 
+- 1 clove of garlic
+- 2 green chili's
+- 2 tbsp poppy seeds
+- 1 tsp coriander seeds
+- 1/2 tsp fennel
+- handful of coriander
+- 1/4 cup of water
+*** Instructions
+1. put ingredients and water in a food processor and blend till smooth. add water as needed.
+** TODO Veggie Korma
+*** Ingredients
+- 4 tsp of olive oil
+- 1 bay leaf
+- 1 2in cinnamon stick
+- 2 pod of cardamon or 1/2 tsp of cardamon seeds
+- 3 cloves
+- 1 yellow onion, finely chopped
+- 1 roma tomato, finely chopped
+- 1 carrot, chopped or handful of baby carrots, chopped
+- 
+- 
+- 
+*** Instructions
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7.
+** TODO Chicken Curry
+*** Ingredients
+- 1 1/2 red onion
+- 2 curry peppers
+- 1 Roma Tomato
+- 6 chicken tenderloins
+- 1 tbsp Ginger Garlic paste
+- 2 cups of water.
+  Spices: 
+- chilli powder
+- turmeric
+- cumin
+- coriander
+*** Instructions
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+** TODO Andhra Chicken Curry
+Chicken curry but in a pressure cooker.
+*** Ingredients
+- 2 tbsp Oil
+- 1 red onion
+- 3 curry peppers
+- 1 Roma Tomato
+- 6 chicken tenderloins
+- 1 tbsp Ginger Garlic paste
+- 1 cup of water
+- 4 tsp of salt
+- chili powder
+- turmeric
+- cumin
+- coriander
+- Gram masala
+- Chicken masala
+*** Instructions
+1. Add oil to a pressure pot
+2. Add the onion and a little bit of salt.
+3. Add the curry Peppers
+4. Add the Ginger Garlic Paste and mix well.
+5. Add Chopped Chicken to the pot. add another 2tsp of salt
+6. Add Spices.
+7. Add tomato and mix
+8. Bring to boil and then pressurize. Cook for 10  mins
+ 
+* TODO Thai
+* TODO Mexican
+* TODO Italian
+* TODO Spice Mixes
