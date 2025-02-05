@@ -46,14 +46,14 @@ Each recipe by default makes what I would call 1 serving with one serving being 
 *** Instructions
 1. on skillet dry roast the ingredients
    
-* DONE Shiro Wot
-** Ingredients
+** DONE Shiro Wot
+*** Ingredients
 -  1 cup Shiro Powder
 - 3 tbsp of Niter Kibbeh
 - 1 large onion, diced 
 - 1 tsp of garlic, minced
 - 2 roma tomatoes, finely chopped
-** Instructions
+*** Instructions
 1. Add the Niter Kibbeh to a pot and melt over medium heat.
 2. Add the onions and cook for 8-10 mins till caramelized. 
 3. Add the tomatoes and garlic. Cook till reduced stirring occasionally. 
