@@ -48,7 +48,7 @@ Each recipe by default makes what I would call 1 serving with one serving being 
    
 ** DONE Shiro Wot
 *** Ingredients
--  1 cup Shiro Powder
+- 1 cup Shiro Powder
 - 3 tbsp of Niter Kibbeh
 - 1 large onion, diced 
 - 1 tsp of garlic, minced
@@ -131,7 +131,7 @@ Each recipe by default makes what I would call 1 serving with one serving being 
 ** TODO Yellow Dal
 *** Ingredients
 *** Instructions
-** TODO Masala paste
+** DONE Masala paste
 *** Ingredients
 - 1 cup coconut, grated
 - 8 cashews
@@ -155,9 +155,8 @@ Each recipe by default makes what I would call 1 serving with one serving being 
 - 1 yellow onion, finely chopped
 - 1 roma tomato, finely chopped
 - 1 carrot, chopped or handful of baby carrots, chopped
-- 
-- 
-- 
+-
+  
 *** Instructions
 1. 
 2. 
@@ -166,6 +165,7 @@ Each recipe by default makes what I would call 1 serving with one serving being 
 5. 
 6. 
 7.
+   
 ** TODO Chicken Curry
 *** Ingredients
 - 1 1/2 red onion
@@ -202,8 +202,8 @@ Chicken curry but in a pressure cooker.
 - turmeric
 - cumin
 - coriander
-- Gram masala
-- Chicken masala
+- Gram Masala
+- Chicken Masala
 *** Instructions
 1. Add oil to a pressure pot
 2. Add the onion and a little bit of salt.
@@ -212,8 +212,48 @@ Chicken curry but in a pressure cooker.
 5. Add Chopped Chicken to the pot. add another 2tsp of salt
 6. Add Spices.
 7. Add tomato and mix
-8. Bring to boil and then pressurize. Cook for 10  mins
- 
+8. Bring to boil and then pressurize. Cook for 10  mins, or till chicken is cooked.
+
+** DONE Bhindi Fry
+*** Ingredients
+1. 1lb of Bhindi.
+2. 1/4 cup of gram flour
+3. 1/4 cup of rice flour
+4. 1 Tbsp of corn flour
+5. 1/4 Tsp of turmeric powder
+6. 2 Tsp of Chili powder
+7. 1 Tsp of Coriander powder
+8. 1 Tsp of Cumin powder
+9. 1 Tsp of salt
+10. Canola Oil (Frying)
+11. Olive oil (Roasting)
+12. Cashews
+13. 4-6 Green Chili's
+14. Curry Leaves
+15. Peanuts (optional)
+   
+*** Instructions
+1. Mix the Flour's and Spices together in a bowl make sure you mix it well.
+   1. 1/4 cup of gram flour
+   2. 1/4 cup of rice flour
+   3. 1 Tbsp of corn flour
+   4. 1/4 Tsp of turmeric powder
+   5. 2 Tsp of Chili powder
+   6. 1 Tsp of Coriander powder
+   7. 1 Tsp of Cumin powder
+   8. 1 Tsp of salt
+2. Wash Dry and chop up the Bhindi in to pieces.
+3. Mix the flour and spices with the Bhindi pieces.
+4. Sprinkle on a little water to help it bind, let sit for 3-5min.
+5. Add fry oil to large pan(don't fill the pan shallow fry)
+6. add Bhindi cook and set aside
+7. Roast:
+   1. Roast the curry leaves, set aside
+   2. Roast the cashews till golden brown, set aside
+   3. Roast Peanuts, set asside
+   4. Slit and roast the peppers, set aside
+8. Add the roasted ingredients to the fried Bhindi and mix well.
+
 * TODO Thai
 * TODO Mexican
 * TODO Italian
