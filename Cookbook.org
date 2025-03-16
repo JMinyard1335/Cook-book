@@ -8,15 +8,74 @@
 #+OPTIONS: H:6
 #+OPTIONS: num:2
 #+LATEX_HEADER: \usepackage[margin=.75in]{geometry}
-#+LATEX_HEADER_EXTRA: \usepackage{tikz}
 #+LATEX_HEADER_EXTRA: \usepackage{graphicx}
 :END:
 
 Each recipe by default makes what I would call 1 serving with one serving being enough for a family of 4 most of the time.
 * TODO Breads
 ** TODO Monkey Bread
-** TODO Pumpkin Bread
+** DONE Pumpkin Bread
+*** Ingredients
+- 3 Cups of sugar
+- 1 cup salad oil
+- 4 eggs beaten
+- 1 can Del Monte Pumpkin || 1 3/4 cups of Pumpkin puree
+- 3 1/2 Cups of flour
+- 2 tsp of baking soda
+- 2 tsp salt
+- 1 tsp baking powder
+- 1 tsp nutmeg
+- 1 tsp all spice
+- 1 tsp cinnamon
+- 1/2 tsp cloves
+- 2/3 cups of water
+  
+*** Instructions
+- Cream the sugar and oil together.
+- Add eggs and pumpkin, mix well
+- Shift Dry ingredients together
+- Add dry ingredients and water, alternating back and forth to avoid clumps.
+- Poor into 2 well greased floured 9x5 inch loaf pans
+- Bake at 350 \degree for 1 1/2 hrs or until done (check by poking with a tooth pick)
+- Let stand for 10 minutes
+- remove from pans to cool.
+  
 ** TODO Banana Bread
+** DONE Homemade Pie Crust
+*** Ingredients
+For a crust without a crust cover use the single crust ingredients if making a crust with a top use the Double Crust
+**** Singe crust
+- 1 3/4 cups of sifted all-purpose flour
+- 1/2 tsp salt
+- 2/3 cup of shortening
+- 4-5 Tbsp of cold water
+**** Double crust
+- 2 1/2 cups of sifted all-purpose flour
+- 1 tsp salt
+- 1 cup of shortening
+- 6 Tbsp of cold water
+  
+*** Instructions
+- Sift the flower into a bowl and salt
+- Add half the shortening and mix
+- Add the rest of the shortening and finish mixing
+- add a little of the cold water at a time kind of poking with a fork
+- keep adding cold water till the dough is kinda flaky
+  
+The Key to making a crust is to not make an actual dough the crust needs to remain flaky.
+This does make the crust harder to work with. but makes a better crust.
+* Deserts
+** TODO Apple Pie
+*** Ingredients
+- 6->8 apples
+- 3 Tbsp of flour
+- 1/2 cup of sugar
+- 1 Tbsp of cinnamon 
+*** Instruction
+- 
+- 
+-
+  
 * TODO Ethiopian 
 ** DONE Misir Wot
 *** Ingredients
