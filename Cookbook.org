@@ -317,3 +317,25 @@ Chicken curry but in a pressure cooker.
 * TODO Mexican
 * TODO Italian
 * TODO Spice Mixes
+* TODO Hungarian
+** TODO Hungarian Caramelized Cabbage and Noodles
+*** Ingrediants
+1. 2.5 lbs cabbage, finely shreaded (about 10 cups/2.5L, loosely packed)
+2. 1 tsp salt
+3. .5 cup olive oil
+4. 1.5 tsp black pepper
+5. 8 oz noodles
+*** Instructions
+1. In a large colander, mix cabbage and salt.  Set aside for 30 to 45
+   minutes.  Using your hands, squeeze excess liquid from cabbage and
+   transfer to a bowl.
+2. In a large pot, over medium head, add oil to a hot pan.  Add
+   cabbage and stir to coat.  Cook, stirring occasionally, for about 5
+   minutes, until wilted.  Cover, reduce heat to low, and cook,
+   stirring occasionally, for about 1 hour, until tender and golden.
+3. Increase heat to medium and cook, uncovered, stirring often and
+   scraping up browned bits from the bottom of the pan, for about 12
+   to 20 minutes, until cabbage is brown and very soft.
+4. Stir in 1tsp pepper.
+5. Meanwhile, cook noodles until tender but firm and drain.
+6. Add noodles to cabbage and mix.  Add more pepper to taste.
