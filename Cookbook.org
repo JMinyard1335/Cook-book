@@ -64,7 +64,7 @@ For a crust without a crust cover use the single crust ingredients if making a c
   
 The Key to making a crust is to not make an actual dough the crust needs to remain flaky.
 This does make the crust harder to work with. but makes a better crust.
-* Deserts
+* TODO Deserts
 ** TODO Apple Pie
 *** Ingredients
 - 6->8 apples
@@ -76,7 +76,7 @@ This does make the crust harder to work with. but makes a better crust.
 - 
 -
   
-* TODO Ethiopian 
+* DONE Ethiopian 
 ** DONE Misir Wot
 *** Ingredients
 - 4 tbsp Spoons of Niter Kibbeh
@@ -119,17 +119,23 @@ This does make the crust harder to work with. but makes a better crust.
 4. Add the Shiro Powder and stir till there are no more dry lumps.
 5. Add 2 cups of water and bring to a boil. Reduce to a simmer and cook for 20-30 mins.
    
-** TODO Tikil Gomen
+** DONE Tikil Gomen
 *** Ingredients
-- 
-- 
-- 
-- 
+- 1 Cabbage diced
+- 1 Yellow Onion sliced long ways
+- 4 Large Carrots sliced in to slivers
+- 4 Green Chilies chopped
+- 4 Cloves of Garlic minced 
+- 2 Spoons of Turmeric
+- 1 Spoon of Bebere
+- 3 tbsp of Niter Kiber
 *** Instructions
-1. 
-2. 
-3. 
-4. 
+1. Add Niter Kiber to a pan, melt over medium heat.
+2. Add onions and cook till clear
+3. Add Carrots, garlic, and peppers cook till carrots start to soften. 
+4. Add bebere and turmeric mix well.
+5. Add the cabage and cover. cook for 10 mins stirring occasionally
+   
 ** DONE Ye'abasha Gomen
 *** Ingredients
 - 10 ounces of collard greens, chopped
