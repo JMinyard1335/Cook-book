@@ -319,6 +319,12 @@ Chicken curry but in a pressure cooker.
    4. Slit and roast the peppers, set aside
 8. Add the roasted ingredients to the fried Bhindi and mix well.
 
+** TODO Sambar Masala
+*** Ingredients
+*** Instructions
+** Sambar
+*** Ingredients
+*** Instructions
 * TODO Thai
 * TODO Mexican
 * TODO Italian
