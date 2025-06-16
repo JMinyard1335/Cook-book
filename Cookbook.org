@@ -193,9 +193,6 @@ This does make the crust harder to work with. but makes a better crust.
 2. Place all ingredients in a saucepan bring to a low simmer and cook for 60-90 mins. Careful not to burn the butter or it will become bitter. 
 3. Pour through cheese cloth to strain out all the herbs and spices. Place in an airtight jar and store it.
 * TODO Indian
-** TODO Yellow Dal
-*** Ingredients
-*** Instructions
 ** DONE Masala paste
 *** Ingredients
 - 1 cup coconut, grated
@@ -231,29 +228,39 @@ This does make the crust harder to work with. but makes a better crust.
 6. 
 7.
    
-** TODO Chicken Curry
+** DONE Paruppu Sadham
+This is a classic rice and dal dish from Coimbatore. For a 2.0 ltr pressure cooker half the recipe.
 *** Ingredients
-- 1 1/2 red onion
-- 2 curry peppers
-- 1 Roma Tomato
-- 6 chicken tenderloins
-- 1 tbsp Ginger Garlic paste
-- 2 cups of water.
-  Spices: 
-- chilli powder
-- turmeric
-- cumin
-- coriander
+- 1 cup of rice. 
+- 1/4 cup of Toor dal
+- 2 tbsp of cooking oil
+- 2 tbsp of Ghee
+- 1/2 tsp Dried Mustard
+- 1 tsp cumin
+- 6 - 8 Curry Leaves
+- 1 tsp Black pepper corns (whole)
+- 5 cloves of garlic (whole)
+- 1 - 2 Green Chilies
+- 1 - 2 Dried Red Chilies
+- 1/2 tsp hing
+- 1 small red onion
+- 2 Roma Tomato
+- 1/4 tsp turmeric powder
+- 1/2 tsp chili powder
+- hand full of fresh coriander
+- 3 cups of water
+- salt to taste.
 *** Instructions
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-** TODO Andhra Chicken Curry
-Chicken curry but in a pressure cooker.
+- Add the dal and rice to a bowl. Rinse until the water is clear and all the dirt has been removed.
+- After rinsing the rice and dal add just enough water to let it soak for 30min. (fill till water is just above the top of the rice)
+- Add oil and Ghee to the pressure cooker, followed by the mustard, cumin, black pepper, garlic cloves, and chilies. Saute for 1 min.
+- Add the Hing and onions and curry leaves. Saute for another min.
+- Add the Tomato's, Turmeric, and chili powder, and salt to taste. Cook till the tomato's become soft.
+- Add the soaked dal, rice, and water.
+- Cover with pressure cooker lid and cook for 3 Whistles.
+- Take off heat let pressure vent.
+- Remove lid add coriander and mix well.
+** WAITING Andhra Chicken Curry
 *** Ingredients
 - 2 tbsp Oil
 - 1 red onion
@@ -322,7 +329,7 @@ Chicken curry but in a pressure cooker.
 ** TODO Sambar Masala
 *** Ingredients
 *** Instructions
-** Sambar
+** TODO Sambar
 *** Ingredients
 *** Instructions
 * TODO Thai
