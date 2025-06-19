@@ -355,6 +355,52 @@ This is a classic rice and dal dish from Coimbatore. For a 2.0 ltr pressure cook
 ** TODO Sambar
 *** Ingredients
 *** Instructions
+** Rasam Rice
+*** Ingredients
+- 1 Cup of Rice
+- 1/2 cup of Dal (any kind)
+- 1 spoon tamarind Paste (soaked)
+- 1 Tomato
+- 3-4 large spoons Rasam Powder
+- 1/4 tsp Turmeric 
+- Salt to taste
+- 2 tbsp of oil
+- 2 tbsp of ghee
+- 5-7 curry leaves
+- 2 garlic cloves
+- 1 tbsp Jeera(ish) (cumin seeds)
+- 1/2 tbsp(ish) mustard seeds
+- 6 cups of water
+*** Instructions
+1. Soak rice and dal for 30 min
+2. Soak Tamarind paste for 10 mins (if paste, raw 30 mins)
+3. in pan saute garlic and tomato's with 1 spoon of ghee and oil.
+4. Add turmeric and rasam powder to pan mix well.
+5. Add soaked rice and dal.
+6. add 6 cups of water
+7. Cover and cook for 5 whistles.
+8. Take a new pot add ghee and oil
+9. add cumin seed, mustard seeds and curry leaves. saute for 1 min.
+10. mix ingredients from step 9 into the rice mix well, and eat.
+   
+** Potato Fry
+*** Ingredients
+- 6-7 Potatoes 
+- oil
+- 1/2 tbsp mustard's seeds
+- 1tbsp  Jeera (cumin seeds)
+- 1-2 tbsp chili powder
+- salt to taste
+- 1/2 tbsp coriander powder
+*** Instructions
+1. cut potatoes into small slices (teeny tiny)
+2. add oil to a pan
+3. add Jeera and mustard seeds, and potatoes saute .
+4. add all the spices.
+5. mix well until cooked (constantly)
+6. Cover and cook for 2-3 mins
+7. Serve and enjoy.
+   
 * TODO Thai
 * TODO Mexican
 * TODO Italian
