@@ -358,10 +358,29 @@ This is a classic rice and dal dish from Coimbatore. For a 2.0 ltr pressure cook
 * TODO Thai
 * TODO Mexican
 * TODO Italian
+** Fettuccine Alfredo
+*** Ingredients
+1 - Fettuccine noodles
+2 - Butter
+3 - Grated Parmigiana cheese
+4 - Whipping cream
+*** Instructions
+Cook the Fettuccine per instructions.  Drain and return to pan on
+medium low heat.
+
+Immediately add enough butter to coat the noodles and have some left
+over in the pan, but not swimming in the butter.
+
+Add the parmigiana and let melt, stirring constantly to keep it from
+globbing up too much.  The cheese should coat the noodles well, but
+not excessively.
+
+Add enough cream to reach an easily stirrable consistency.  Be careful
+to not add too much.
 * TODO Spice Mixes
 * TODO Hungarian
 ** TODO Hungarian Caramelized Cabbage and Noodles
-*** Ingrediants
+*** Ingredients
 1. 2.5 lbs cabbage, finely shreaded (about 10 cups/2.5L, loosely packed)
 2. 1 tsp salt
 3. .5 cup olive oil
