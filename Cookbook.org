@@ -441,6 +441,22 @@ This is a classic rice and dal dish from Coimbatore. For a 2.0 ltr pressure cook
    
 * TODO Thai
 * TODO Mexican
+** Mexican Rice
+*** Ingredients
+- 3 tablespoons vegetable oil
+- 1 cup uncooked long-grain rice
+- 1/2 cup chopped onion
+- 1 tsp garlic salt
+- 1/2 tsp ground cumin
+- 2 cups broth
+- 1/2 cup tomato sauce
+*** Instructions
+- Heat oil in a saucepan, add rice, onion, garlic salt, and cumin.
+- Cook, stirring constantly, until rice is puffed and golden.
+- Stir in broth and tomato sauce, bring to a boil.
+- Reduce heat to low and simmer for 25 minutes.
+- Remove heat and fluff rice.
+- If you use brown rice, increase simmer time to 40-45 minutes.
 * TODO Italian
 ** Fettuccine Alfredo
 *** Ingredients
